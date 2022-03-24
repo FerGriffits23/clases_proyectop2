@@ -1,0 +1,8 @@
+C:\Users\Fernando\source\repos\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\obj\Debug\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\obj\Debug\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando\source\repos\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\obj\Debug\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\bin\Debug\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial.exe.config
+C:\Users\Fernando\source\repos\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\bin\Debug\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial.exe
+C:\Users\Fernando\source\repos\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\bin\Debug\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial.pdb
+C:\Users\Fernando\source\repos\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\obj\Debug\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial.exe
+C:\Users\Fernando\source\repos\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial\obj\Debug\P2_2022_I_PI_LABORATORIO-SEGUNDOparcial.pdb
